@@ -25,9 +25,9 @@ This project allows you to visualize the orientation of a 3D cube in real-time, 
 
 ## Files Included  
 📁 **Project Files**:  
-  - **main.py**: Main script to read sensor data and display the cube.  
+  - **mpu6500.py**: Main script to read sensor data and display the cube.  
   - **README.md**: This documentation file.  
-  - **Wiring Diagrams** (optional, if applicable).  
+  - **Wiring Diagrams**   
   - **Source files** for ESP32 and MPU6500 sensor.
 
 ## Installation & Usage  
