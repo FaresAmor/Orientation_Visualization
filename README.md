@@ -35,6 +35,12 @@ This project allows you to visualize the orientation of a 3D cube in real-time, 
    ```bash
    git clone https://github.com/your-username/project-name.git
 
+## 📜 Wiring Diagram of MPU6500 Sensor and ESP32
+Feel free to explore, modify, and contribute! If you find any issues or improvements, open a pull request or raise an issue. 🚀
+![Image Alt](https://github.com/FaresAmor/HARDWARE-Design/blob/403708126704611446c14cd4ab31e6370bbe946b/Reg.png)
+
+
+
 ## Contribution
 Feel free to explore, modify, and contribute! If you find any issues or improvements, open a pull request or raise an issue. 🚀
 
